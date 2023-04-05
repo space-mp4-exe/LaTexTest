@@ -2,4 +2,5 @@
 $$
 \sum_{n=1}^{\infty}
 $$
-$ a_{n}=S_{N} - S_{N-1} $
+
+hi there $ a_{n}=S_{N} - S_{N-1} $ hi there
